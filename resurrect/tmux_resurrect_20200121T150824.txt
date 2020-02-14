@@ -1,0 +1,62 @@
+pane	haskell	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith/thunderseethe/pLam	1	bash	:
+pane	haskell	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith/thunderseethe/pLam	1	bash	:
+pane	head	1	:bash	0	:#-	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	2	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	2	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	3	:/usr/local/google/home/ethansmith	1	bash	:
+pane	head	1	:bash	0	:#-	3	:/usr/local/google/home/ethansmith	1	bash	:
+pane	head	2	:bash	1	:*	1	:/google/src/cloud/ethansmith/cws_head/google3	1	bash	:
+pane	head	2	:bash	1	:*	1	:/google/src/cloud/ethansmith/cws_head/google3	1	bash	:
+pane	iap	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	iap	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	iap	1	:bash	1	:*	2	:/usr/local/google/home/ethansmith	1	bash	:
+pane	iap	1	:bash	1	:*	2	:/usr/local/google/home/ethansmith	1	bash	:
+pane	metric	1	:nvim	1	:*	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	metric	1	:nvim	1	:*	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	metric	1	:nvim	1	:*	2	:/usr/local/google/home/ethansmith	1	bash	:
+pane	metric	1	:nvim	1	:*	2	:/usr/local/google/home/ethansmith	1	bash	:
+pane	metric	2	:monitoring_replayer	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	metric	2	:monitoring_replayer	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	payments	1	:bash	1	:*	1	:/google/src/files/290753628/depot/google3	0	bash	:
+pane	payments	1	:bash	1	:*	1	:/google/src/files/290753628/depot/google3	0	bash	:
+pane	payments	1	:bash	1	:*	2	:/google/src/cloud/ethansmith/CS-keystore-prod-2020-1-21_115452/google3	1	bash	:
+pane	payments	1	:bash	1	:*	2	:/google/src/cloud/ethansmith/CS-keystore-prod-2020-1-21_115452/google3	1	bash	:
+pane	payments	2	:span	0	:#-	1	:/cloud/ethansmith/payments/google3	0	nvim	:/tmp/.mount_nvim65CPIQ/usr/bin/nvim java/com/google/chrome/webstore/boq/snapcat/settingsweb/accountdetails/accountdetailscontroller_test.js
+pane	payments	2	:span	0	:#-	1	:/cloud/ethansmith/payments/google3	0	nvim	:/tmp/.mount_nvim65CPIQ/usr/bin/nvim java/com/google/chrome/webstore/boq/snapcat/settingsweb/accountdetails/accountdetailscontroller_test.js
+pane	payments	2	:span	0	:#-	2	:/cloud/ethansmith/payments/google3	1	bash	:
+pane	payments	2	:span	0	:#-	2	:/cloud/ethansmith/payments/google3	1	bash	:
+pane	rec_v2	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	rec_v2	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	rust	1	:nvim	1	:*	1	:/usr/local/google/home/ethansmith/google_drive/cubes	1	bash	:
+pane	rust	1	:nvim	1	:*	1	:/usr/local/google/home/ethansmith/google_drive/cubes	1	bash	:
+pane	snapcat	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	snapcat	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	snapcat	2	:span	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	snapcat	2	:span	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+window	haskell	1	1	:*	afde,254x31,0,0,1
+window	head	1	0	:#-	7cde,254x31,0,0[254x15,0,0{127x15,0,0,2,126x15,128,0,3},254x15,0,16,4]
+window	head	2	1	:*	afe2,254x31,0,0,5
+window	iap	1	1	:*	1de9,254x67,0,0{127x67,0,0,6,126x67,128,0,7}
+window	metric	1	1	:*	1dec,254x67,0,0{127x67,0,0,8,126x67,128,0,9}
+window	metric	2	0	:-	671f,254x67,0,0,10
+window	payments	1	1	:*	e903,254x67,0,0{126x67,0,0,25,127x67,127,0,28}
+window	payments	2	0	:#-	ad19,254x67,0,0{127x67,0,0,13,126x67,128,0,26}
+window	rec_v2	1	1	:*	6723,254x67,0,0,14
+window	rust	1	1	:*	6725,254x67,0,0,16
+window	haskell	1	1	:*	afde,254x31,0,0,1
+window	snapcat	1	1	:*	6726,254x67,0,0,17
+window	snapcat	2	0	:-	6727,254x67,0,0,18
+window	head	1	0	:#-	7cde,254x31,0,0[254x15,0,0{127x15,0,0,2,126x15,128,0,3},254x15,0,16,4]
+window	head	2	1	:*	afe2,254x31,0,0,5
+window	iap	1	1	:*	1de9,254x67,0,0{127x67,0,0,6,126x67,128,0,7}
+window	metric	1	1	:*	1dec,254x67,0,0{127x67,0,0,8,126x67,128,0,9}
+window	metric	2	0	:-	671f,254x67,0,0,10
+window	payments	1	1	:*	e903,254x67,0,0{126x67,0,0,25,127x67,127,0,28}
+window	payments	2	0	:#-	ad19,254x67,0,0{127x67,0,0,13,126x67,128,0,26}
+window	rec_v2	1	1	:*	6723,254x67,0,0,14
+window	rust	1	1	:*	6725,254x67,0,0,16
+window	snapcat	1	1	:*	6726,254x67,0,0,17
+window	snapcat	2	0	:-	6727,254x67,0,0,18
+state	payments	head
+state	payments	head

@@ -1,0 +1,28 @@
+pane	haskell	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith/thunderseethe/pLam	1	bash	:
+pane	head	1	:bash	0	:#-	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	2	:/usr/local/google/home/ethansmith	0	bash	:
+pane	head	1	:bash	0	:#-	3	:/usr/local/google/home/ethansmith	1	bash	:
+pane	head	2	:bash	1	:*	1	:/google/src/files/292036178/depot/google3	1	bash	:
+pane	metric	1	:nvim	1	:*	1	:/usr/local/google/home/ethansmith	0	bash	:
+pane	metric	1	:nvim	1	:*	2	:/usr/local/google/home/ethansmith	1	bash	:
+pane	metric	2	:monitoring_replayer	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	payments	1	:bash	0	:-	1	:/google/src/cloud/ethansmith/pay_query_server/google3	1	bash	:
+pane	payments	2	:span	1	:*	1	:/usr/local/google/home/ethansmith	1	span	:/google/data/ro/projects/tonic/admin_session --reason=b/145822957
+pane	payments	3	:bash	0	:#	1	:/google/src/cloud/ethansmith/payments/google3/java/com/google/chrome/webstore/model	0	nvim	:/tmp/.mount_nvimk9Kpvw/usr/bin/nvim payment_transaction.proto
+pane	payments	3	:bash	0	:#	2	:/google/src/cloud/ethansmith/payments/google3/java/com/google/chrome/webstore	1	bash	:
+pane	rust	1	:nvim	1	:*	1	:/google/src/cloud/ethansmith/rust101/google3/experimental/kevincox/rust101	0	bash	:
+pane	rust	1	:nvim	1	:*	2	:/google/src/cloud/ethansmith/rust101/google3/experimental/kevincox/rust101	1	bash	:
+pane	snapcat	1	:bash	1	:*	1	:/usr/local/google/home/ethansmith	1	bash	:
+pane	snapcat	2	:span	0	:-	1	:/usr/local/google/home/ethansmith	1	bash	:
+window	haskell	1	1	:*	cdde,254x67,0,0,1
+window	head	1	0	:#-	5357,208x56,0,0[208x27,0,0{104x27,0,0,2,103x27,105,0,3},208x28,0,28,4]
+window	head	2	1	:*	e47f,208x56,0,0,20
+window	metric	1	1	:*	1dec,254x67,0,0{127x67,0,0,8,126x67,128,0,9}
+window	metric	2	0	:-	671f,254x67,0,0,10
+window	payments	1	0	:-	6481,208x56,0,0,12
+window	payments	2	1	:*	6483,208x56,0,0,14
+window	payments	3	0	:#	ac7e,208x56,0,0{103x56,0,0,21,104x56,104,0,22}
+window	rust	1	1	:*	6d1b,254x67,0,0{127x67,0,0,16,126x67,128,0,17}
+window	snapcat	1	1	:*	6727,254x67,0,0,18
+window	snapcat	2	0	:-	6728,254x67,0,0,19
+state	head	payments
