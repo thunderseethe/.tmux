@@ -1,0 +1,11 @@
+pane	head	1	:bash	1	:*	1	:/cloud/ethansmith/cws_head/google3	1	bash	:
+pane	rust	1	:nvim	0	:#-	1	:/cloud/ethansmith/rust/google3/experimental/users/ethansmith/bug_cli	1	nvim	:/tmp/.mount_nvimYGhkJ7/usr/bin/nvim Cargo.toml
+pane	rust	1	:nvim	0	:#-	2	:/cloud/ethansmith/rust/google3/experimental/users/ethansmith/bug_cli	0	bash	:
+pane	rust	2	:bash	1	:*	1	:/usr/local/google/home/ethansmith/google_drive/cubes/lib/generate_protocol	1	bash	:
+pane	wipeout	1	:bash	1	:*Z	1	:/cloud/ethansmith/wipeout/google3	0	bash	:
+pane	wipeout	1	:bash	1	:*Z	2	:/google/src/cloud/ethansmith/wipeout/google3	1	bash	:
+window	head	1	1	:*	d1e2,254x68,0,0,5
+window	rust	1	0	:#-	4319,173x44,0,0{86x44,0,0,6,86x44,87,0,1}
+window	rust	2	1	:*	bdc5,173x44,0,0,8
+window	wipeout	1	1	:*Z	8762,254x62,0,0{127x62,0,0,2,126x62,128,0,7}
+state	wipeout	

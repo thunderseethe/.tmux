@@ -1,0 +1,8 @@
+pane	head	1	:bash	1	:*	1	:/google/src/cloud/ethansmith/cws_head/google3	1	bash	:
+pane	rust	1	:nvim	1	:*Z	1	:/usr/local/google/home/ethansmith/google_drive/cubes	1	nvim	:/tmp/.mount_nvimckrReG/usr/bin/nvim lib/generate_protocol/
+pane	rust	1	:nvim	1	:*Z	2	:/usr/local/google/home/ethansmith/google_drive/cubes	0	bash	:
+pane	wipeout	1	:bash	1	:*	1	:/google/src/cloud/ethansmith/wipeout/google3	1	bash	:
+window	head	1	1	:*	d1e2,254x68,0,0,5
+window	rust	1	1	:*Z	0201,115x29,0,0{57x29,0,0,0,57x29,58,0,1}
+window	wipeout	1	1	:*	c5df,254x65,0,0,2
+state	wipeout	head

@@ -1,0 +1,9 @@
+pane	head	1	:bash	1	:*	1	:/google/src/cloud/ethansmith/cws_head/google3	1	bash	:
+pane	rust	1	:bash	1	:*	1	:/google/src/cloud/ethansmith/rust/google3/experimental/users/ethansmith/bug_cli	0	nvim	:/tmp/.mount_nvimYGhkJ7/usr/bin/nvim Cargo.toml
+pane	rust	1	:bash	1	:*	2	:/google/src/cloud/ethansmith/rust/google3/experimental/users/ethansmith/bug_cli	1	bash	:
+pane	wipeout	1	:bash	1	:*Z	1	:/google/src/cloud/ethansmith/wipeout/google3	0	bash	:
+pane	wipeout	1	:bash	1	:*Z	2	:/google/src/cloud/ethansmith/wipeout/google3	1	bash	:
+window	head	1	1	:*	d1e2,254x68,0,0,5
+window	rust	1	1	:*	2bbb,382x90,0,0{191x90,0,0,6,190x90,192,0,1}
+window	wipeout	1	1	:*Z	14e4,254x65,0,0{127x65,0,0,2,126x65,128,0,7}
+state	rust	

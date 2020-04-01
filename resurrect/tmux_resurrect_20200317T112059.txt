@@ -1,0 +1,4 @@
+pane	rust	1	:nvim	1	:*Z	1	:/usr/local/google/home/ethansmith/google_drive/cubes	1	nvim	:/tmp/.mount_nvimckrReG/usr/bin/nvim lib/generate_protocol/
+pane	rust	1	:nvim	1	:*Z	2	:/usr/local/google/home/ethansmith/google_drive/cubes	0	bash	:
+window	rust	1	1	:*Z	4301,173x44,0,0{86x44,0,0,0,86x44,87,0,1}
+state	rust	
